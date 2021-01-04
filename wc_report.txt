@@ -1,0 +1,10 @@
+The total wordcount :15
+Total of unique words :7
+------------Top 10 Words------------
+mango-bar : 3
+apple : 3
+banana : 3
+pear : 2
+strawberry : 2
+kiwi : 1
+grapes : 1

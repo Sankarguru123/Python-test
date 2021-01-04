@@ -1,0 +1,4 @@
+Mango-bar, banana apple pear.
+Banana grapes strawberry.
+Apple, pear MANGO-bar BANANA.
+Kiwi apple mango-bar strawberry.
